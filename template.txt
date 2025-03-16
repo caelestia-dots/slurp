@@ -1,0 +1,1 @@
+-d -c $primarybb -b $primary22 -B $primary22 -s 00000000

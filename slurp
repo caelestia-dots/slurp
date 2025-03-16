@@ -1,0 +1,3 @@
+#!/bin/sh
+
+/bin/slurp $(cat "${XDG_STATE_HOME:-$HOME/.local/state}/caelestia/slurp-args.txt") "$@"
