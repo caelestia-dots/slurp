@@ -1,5 +1,7 @@
 # caelestia-slurp
 
+## THIS REPO IS ARCHIVED IN FAVOUR OF https://github.com/caelestia-dots/caelestia
+
 Slurp integration for my caelestia dotfiles.
 This is for colour theming.
 
